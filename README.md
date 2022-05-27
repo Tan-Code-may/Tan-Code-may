@@ -1,3 +1,4 @@
+<img src="images/%20githubCover.png" height="350rem" width="1000rem" align="center" alt="https://tan-code-may.github.io/personal-site-1/My%20site/" />
 <h1 align="center">Hola 👋, I'm Tanmay Garg</h1>
 <h3 align="center">Undergrad student 🧑‍🎓 | Programmer | Web 3.0 enthusiast</h3><br><br>
 
